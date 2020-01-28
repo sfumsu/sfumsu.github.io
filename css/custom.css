@@ -1,0 +1,58 @@
+/* HERO */
+
+.bgimage {
+    width:100%;
+    height:500px;
+    /* background: url('https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c'); */
+     background: url("../img/hero.jpg");
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+  }
+  .bgimage h1 {
+    color: white;
+    text-shadow: 2px 2px #333;
+  }
+
+/* ICONS */
+
+.icon {
+	width: 50px;
+	height: 50px;
+	background-size: cover;
+	background-repeat: no-repeat;
+    display: inline-block;
+    text-align: center;
+    display: inline-block;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.mail {
+    background-image: url("../img/mail.png");
+}
+
+.fb {
+    background-image: url("../img/fb.png");
+}
+
+/* OTHER */
+
+body { padding-top: 62px; }
+
+.card {
+    margin-bottom: 10px;
+}
+
+section {
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+}
+
+.section-header {
+    margin-bottom: 2rem;
+}
+
+.inline-link {
+    display:inline;
+}
