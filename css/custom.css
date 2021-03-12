@@ -27,6 +27,12 @@
     margin-left: 0.5em;
     margin-right: 0.5em;
 }
+.instagram{
+    background-image: url("../img/instagram-logo.png");
+}
+.discord {
+    background-image: url("../img/Discord-Logo-Black.png");
+}
 
 .mail {
     background-image: url("../img/mail.png");
@@ -35,7 +41,6 @@
 .fb {
     background-image: url("../img/fb.png");
 }
-
 /* OTHER */
 
 body { padding-top: 62px; }
