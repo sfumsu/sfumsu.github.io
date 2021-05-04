@@ -61,3 +61,8 @@ section {
 .inline-link {
     display:inline;
 }
+
+.card-img-top {
+    height: 20vw;
+    object-fit: cover;
+}
