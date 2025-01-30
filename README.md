@@ -15,6 +15,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For any questions, feel free to reach out via the contact information on the website or submit an issue on GitHub.
-
+For any questions, feel free to reach out via email at math-pres@sfu.ca or join our discord [here](https://discord.gg/UEDGEfpSCS) and ask in the #general channel there!
 
