@@ -45,10 +45,6 @@
 
 body { padding-top: 62px; }
 
-.card {
-    margin-bottom: 10px;
-}
-
 section {
     margin-bottom: 4rem;
     margin-top: 4rem;
@@ -62,6 +58,10 @@ section {
     display:inline;
 }
 
+.card {
+    margin-bottom: 10px;
+
+}
 .card-img-top {
     height: 20vw;
     object-fit: cover;
