@@ -66,3 +66,21 @@ section {
     height: 20vw;
     object-fit: cover;
 }
+
+
+/* Mobile-only collapse animation */
+@media (max-width: 991.98px) {
+  /* Override Bootstrap's .collapse display:none for this specific nav */
+  #navbarResponsive.collapse {
+    display: block !important; 
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .6s ease;
+  }
+
+  #navbarResponsive.collapse.show {
+    max-height: 400px; 
+    transition: max-height .6s ease;
+
+  }
+}
